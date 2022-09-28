@@ -17,3 +17,8 @@
 
 ## Current Projects
 [Doctor Report]
+[Watches Unlimited Website]
+
+## Learning
+- React.js with a friend
+- Better app and web design with Figma
