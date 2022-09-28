@@ -1,5 +1,3 @@
-# Na-Owen
-
 <h1 align="center">Hello! I'm Owen</h1>
 
 <h3 align="center">Second year Computer Science Major at the University of Georgia.</h3>
