@@ -3,7 +3,7 @@
 <h3 align="center">Second year Computer Science Major at the University of Georgia.</h3>
 
 ## 🗒Ask me anything on
-- Frontend Development (HTML, CSS, JS)
+- Frontend Development (HTML, CSS)
 - Andriod Development (Java)
 - php-esqe Database (Google Firebase)
 
@@ -18,7 +18,7 @@
 [Watches Unlimited Website]
 
 ## 💬Learning
-- React.js with a friend
+- JS through FreeCodeCamp
 - Better app and web design with Figma
 
 <p align="center">
