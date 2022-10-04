@@ -14,11 +14,13 @@
 - etc..
 
 ## 💻Current Projects
-[Doctor Report]
-[Watches Unlimited Website]
+[OverTheHorizon](https://github.com/osn53387/OverTheHorizon)
+<br>
+[Watches Unlimited Website](https://github.com/osn53387/WatchesUnlimited)
 
 ## 💬Learning
 - JS through FreeCodeCamp
+- React for the first time
 - Better app and web design with Figma
 
 <p align="center">
