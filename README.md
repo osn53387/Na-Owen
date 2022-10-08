@@ -5,7 +5,7 @@
 ## 🗒Ask me anything on
 - Frontend Development (HTML, CSS)
 - Andriod Development (Java)
-- php-esqe Database (Google Firebase)
+- sql-esqe Database (Google Firebase)
 
 ## 🕖Time Killers
 - Watching anime and TV
@@ -19,7 +19,7 @@
 [Watches Unlimited Website](https://github.com/osn53387/WatchesUnlimited)
 
 ## 💬Learning
-- JS through FreeCodeCamp
+- Postgresql for local backend
 - React for the first time
 - Better app and web design with Figma
 
