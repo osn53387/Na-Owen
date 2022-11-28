@@ -4,8 +4,8 @@
 
 ## 🗒Ask me anything on
 - Frontend Development (HTML, CSS)
-- Andriod Development (Java)
-- sql-esqe Database (Google Firebase)
+- Android Development (Java)
+- SQL-esqe Database (Google Firebase)
 
 ## 🕖Time Killers
 - Watching anime and TV
