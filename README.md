@@ -1,6 +1,6 @@
 <h1 align="center">👋Hello! I'm Owen</h1>
 
-<h3 align="center">Second year Computer Science Major at the University of Georgia.</h3>
+<h3 align="center">Third year Computer Science Major at the University of Georgia.</h3>
 
 ## 🗒Ask me anything on
 - Frontend Development (HTML, CSS)
