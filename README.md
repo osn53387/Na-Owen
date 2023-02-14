@@ -14,14 +14,12 @@
 - etc..
 
 ## 💻Current Projects
-[OverTheHorizon](https://github.com/osn53387/OverTheHorizon)
-<br>
-[ProjectBlue](https://github.com/osn53387/ProjectBlue)
+[StockBets](https://github.com/Tran-Steven/StockBets)
 
 ## 💬Learning
 - Postgresql for local backend
-- React for the first time
-- Better app and web design with Figma
+- TypeScript and Next.js
+- Better UX and UI
 
 <p align="center">
 <a href="https://git.io/streak-stats">
