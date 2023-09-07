@@ -10,7 +10,7 @@
 ## 🕖Time Killers
 - Watching anime and TV
 - Crying about new problems I never knew existed in my code.
-- Playing Video Games
+- Valorant
 - etc..
 
 ## 💻Current Projects
