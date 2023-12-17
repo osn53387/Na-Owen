@@ -14,7 +14,7 @@
 - etc..
 
 ## 💻Current Projects
-[StockBets](https://github.com/Tran-Steven/StockBets)
+None at the moment, brainstorming!
 
 ## 💬Learning
 - Postgresql for local backend
