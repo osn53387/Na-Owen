@@ -8,10 +8,9 @@
 - SQL-esqe Database (Google Firebase)
 
 ## 🕖Time Killers
-- Watching anime and TV
-- Crying about new problems I never knew existed in my code.
-- Valorant
-- etc..
+- Maplestory
+- Leetcode
+- Rock Climbing
 
 ## 💻Current Projects
 None at the moment, brainstorming!
