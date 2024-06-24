@@ -22,5 +22,5 @@ None at the moment, brainstorming!
 
 <p align="center">
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=owen-na&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&locale=kr"/>
+  <img src="https://streak-stats.demolab.com?user=owen-na&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&locale=ko"/>
 </a></p>
